@@ -1,0 +1,8 @@
+.saveButton {
+  width: 90px;
+  height: 30px;
+  background-color: #519f03;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}

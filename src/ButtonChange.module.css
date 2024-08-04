@@ -1,0 +1,12 @@
+.buttonChange {
+  background-color: #519f03;
+  width: 162px;
+  height: 30px;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 400;
+  border: none;
+  margin-top: 20px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}

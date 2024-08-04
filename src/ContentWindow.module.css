@@ -1,0 +1,60 @@
+.window {
+  background-color: #373737;
+  width: 474px;
+  height: 511px;
+  margin-top: 20px;
+}
+
+.content {
+  padding: 20px;
+}
+
+.textStyling {
+  font-size: 14px;
+  font-weight: 400;
+  color: #fff;
+}
+
+.searchStyling {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  margin-top: 20px;
+  justify-content: space-between;
+}
+
+.searchFlex {
+  display: flex;
+  gap: 5px;
+}
+
+.asd {
+  display: flex;
+  flex-direction: row;
+}
+
+.marginTop {
+  margin-top: 20px;
+}
+
+.buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.contentHeader {
+  display: flex;
+  justify-content: space-between;
+}
+
+.close {
+  font-size: 10px;
+  color: #fff;
+  font-family: inter;
+  border: none;
+  cursor: pointer;
+  background-color: #373737;
+  width: 7px;
+  height: 15px;
+}

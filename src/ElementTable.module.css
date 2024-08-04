@@ -1,0 +1,7 @@
+.container {
+  background-color: #141414;
+  width: 434px;
+  height: 266px;
+  overflow-y: scroll;
+  margin-top: 20px;
+}

@@ -1,0 +1,15 @@
+.containerCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.containerStyling {
+  width: 514px;
+  height: 740px;
+  background-color: #fff;
+}
+
+.containerSizing {
+  padding: 20px;
+}

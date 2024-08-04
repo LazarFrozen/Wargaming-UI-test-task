@@ -1,0 +1,8 @@
+.cancleButton {
+  width: 90px;
+  height: 30px;
+  background-color: #9f2903;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
